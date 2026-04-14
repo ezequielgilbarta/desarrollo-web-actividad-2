@@ -1,14 +1,14 @@
 # Trabajo Práctico HTML - Noticia
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto consiste en la creación de una página HTML que replica una noticia de un diario online, utilizando etiquetas semánticas de HTML5.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 * HTML5
 
-## 📄 Contenido
+## Contenido
 
 La página incluye:
 
@@ -18,14 +18,6 @@ La página incluye:
 * Autor
 * Fecha
 
-## 🌐 Objetivo
+## Objetivo
 
 Aplicar estructura y semántica HTML en un documento real.
-
-## 👨‍💻 Autor
-
-* Tu nombre
-
-## 🔗 Repositorio
-
-(agregar link cuando lo subas)
