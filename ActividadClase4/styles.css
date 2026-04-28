@@ -1,0 +1,92 @@
+.container {
+    width: 800px;
+    margin: 0 auto;
+    height: 480px;
+}
+
+header {
+    height: 20%;
+    background-color: lightcoral;
+}
+
+.menu {
+    /* width: 200px; */
+    float: left;
+    background-color: lightgray;
+    /* display: inline; */
+    height: 30%;
+    width: 20%;
+}
+
+.content {
+    /* width: 600px; */
+    float: left;
+    /* display: inline; */
+    height: 110%;
+    width: 80%;
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    clear: both;
+    background-color: lightblue;
+    height: 20%;
+}
+
+.titulo1 {
+    display: inline;
+}
+
+.imagen1 {
+    display: inline;
+    height: 80px;
+    width: 400px;
+}
+
+/* Subrayado */
+.subrayado {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/* Colores de texto */
+.rojo {
+    color: red;
+}
+
+.naranja {
+    color: orange;
+    font-weight: bold;
+}
+
+.verde {
+    background-color: lightgreen;
+}
+
+.amarillo {
+    background-color: yellow;
+}
+
+.celeste {
+    background-color: cyan;
+}
+
+/* Tachado */
+.tachado {
+    text-decoration: line-through;
+}
+
+/* Links */
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+/* Lista */
+ul {
+    margin-top: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
